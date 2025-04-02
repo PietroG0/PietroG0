@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pietro</h1>
+<h1 align="center">Hi, I'm Pietro</h1>
 <h3 align="center">A Computer Science student at Tor Vergata currently in my third year</h3>
 
 <h3 align="left">Languages and Tools:</h3>
