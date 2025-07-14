@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Pietro</h1> 
 <h3 align="center">A Computer Science student at Tor Vergata currently in my third year</h3> 
+<p align="center"> Go check my website: https://pietrog0.github.io/sito_appunti_triennale/ </p>
 <img src="IMG_7112.JPG" alt="Custom Image" width="80" align="right"/>
 
 <h3 align="left">Languages and Tools:</h3>
