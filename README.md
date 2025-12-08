@@ -7,12 +7,13 @@
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrog0&layout=compact&theme=onedark&locale=en" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrog0&layout=compact&theme=onedark&locale=en" 
        alt="pietrog0" />
 </p>
 
 <p>
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=pietrog0&show_icons=true&theme=onedark&locale=en" 
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pietrog0&show_icons=true&theme=onedark&locale=en" 
        alt="pietrog0" />
 </p>
+
